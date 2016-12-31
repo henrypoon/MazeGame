@@ -1,0 +1,20 @@
+Controls:
+
+
+W-A-S-D | Player 1 Movement
+I-J-K-L | Player 2 Movement
+E		| Player 1 Place tracer / Pick up tracer
+O 		| Player 2 Place tracer / Pick up tracer
+Z		| Activates/Deactivates Zoom mode (Single Player only)
+ESC 	| Pause Menu
+Space	| Bring up / close this menu
+
+
+Gamplay:
+
+
+Your goal is to reach the safe zone (Green Square) while avoiding the ghosts. The ability to finish the map is only unlocked when all Maps are collected. A Sword will sometimes spawn for you in a random area. This will grant you the ability to survive one ghost and eliminate it from the current map.
+
+Be warned, the enemies in this game have the ability to mimick your every action! Use this knowledge to your advantage as you encounter one in your path.
+
+Goodluck.
